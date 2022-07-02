@@ -8,39 +8,33 @@ const Skills = () => {
       <div className="text-md my-8 flex flex-col font-medium md:text-xl custom:text-lg">
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">NextJS</span>
-          &nbsp;as my Frontend Framework
+          <span className="text-white">React & React Native</span>
+          &nbsp;&nbsp;as my Frontend Framework
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Typescript </span>
-          &nbsp;as my main language
+          <span className="text-white">Javascript </span>
+          &nbsp;&nbsp;as my main language
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
           <span className="text-white">Tailwind CSS </span>
-          &nbsp;as my CSS framework
+          &nbsp;&nbsp;as my CSS framework
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Figma </span>
-          &nbsp;as my designing tool
+          <span className="text-white">Next.js </span>
+          &nbsp;&nbsp;currently learning
         </p>
 
-        <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
-          <BsArrowRightShort size="30" />
-          <span className="text-white">Express JS </span>
-          &nbsp;as my API framework
-        </p>
       </div>
 
       <p className="text-lg font-medium text-slate-300">
-        ...more skills include <span className="text-white">javascript</span>,{" "}
-        <span className="text-white">reactjs</span>,{" "}
-        <span className="text-white">fastapi </span>{" "}
+        ...more skills include <span className="text-white">Typescript</span>,{" "}
+        <span className="text-white">Vue</span>,{" "}
       </p>
     </div>
   );
