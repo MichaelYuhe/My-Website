@@ -1,7 +1,6 @@
 import type { NextComponentType } from "next";
 
 import {
-  BsSpotify,
   MdEmail,
   AiOutlineGithub,
   AiOutlineTwitter,
@@ -15,19 +14,14 @@ const Contact: NextComponentType = () => {
       <p className="text-3xl font-bold text-white">Get in touch</p>
 
       <div className="my-8 flex flex-row justify-center gap-x-4">
-        <Icon icon={<AiOutlineGithub />} url="https://github.com/kr-anurag" />
+        <Icon icon={<AiOutlineGithub />} url="https://github.com/michaelyuhe" />
 
         <Icon
           icon={<AiOutlineTwitter />}
-          url="https://twitter.com/imanuraglol"
+          url="https://twitter.com/coooolxyh"
         />
 
-        <Icon icon={<MdEmail />} url="mailto:kr.anurag24@gmail.com" />
-
-        <Icon
-          icon={<BsSpotify />}
-          url="https://open.spotify.com/user/31l2fev6wn2mtzclbpvzxis3x77q"
-        />
+        <Icon icon={<MdEmail />} url="mailto:xiayuhang1106@gmail.com" />
       </div>
     </div>
   );
