@@ -9,7 +9,7 @@ const Projects: NextComponentType = () => {
       <div className="my-8 flex flex-col items-center justify-center gap-10 xl:flex-row">
         <Link href="https://myboom.tw/" passHref>
           <a
-            className="h-[7rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] via-[#4639c4] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] via-[#4639c4] to-[#818CF8] p-1 text-white duration-200 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -22,7 +22,7 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://github.com/MichaelYuhe/Greenet" passHref>
           <a
-            className="h-[7rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#35c518] via-[#4ea45d] to-[#7ff0b6] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#35c518] via-[#4ea45d] to-[#7ff0b6] p-1 text-white duration-200 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >

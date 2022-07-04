@@ -9,9 +9,15 @@ const About: NextComponentType = () => {
   return (
     <div className="my-8 flex flex-row items-center justify-between px-3 font-sen">
       <div>
-        <p className="text-3xl font-bold text-white">MichaelYuhe</p>
+        <p className="text-3xl font-bold text-white hover:underline cursor-pointer">MichaelYuhe</p>
         <p className="mt-1 text-lg text-gray-300">
           Frontend Developer, Student
+        </p>
+
+        <p className="mt-4 text-gray-400">
+          I enjoyed playing basketball, <br />
+          travelling, watching movies in my daily life. <br />
+          Of course I love coding, too.
         </p>
 
         <p className="mt-4 text-gray-400">
@@ -19,6 +25,14 @@ const About: NextComponentType = () => {
           Working at Netease currently. <br />
           Graduating next year from ZJU.
         </p>
+
+        <p className="mt-4 text-gray-400">
+          Looking for job opportunities.<br />
+          Prefer a&nbsp;
+          <span className="hover:underline cursor-pointer">work-life-balance</span> job.
+          &nbsp;Especially that allows me to <span className="hover:underline cursor-pointer">work from home</span>.<br />
+        </p>
+
       </div>
 
       <div className="hidden custom:block">
