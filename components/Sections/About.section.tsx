@@ -30,7 +30,7 @@ const About: NextComponentType = () => {
           Looking for job opportunities.<br />
           Prefer a&nbsp;
           <span className="hover:underline cursor-pointer">work-life-balance</span> job.
-          &nbsp;Especially that allows me to <span className="hover:underline cursor-pointer">work from home</span>.<br />
+          <br />
         </p>
 
       </div>
