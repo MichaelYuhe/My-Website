@@ -10,7 +10,7 @@ const About: NextComponentType = () => {
     <div className="font-sen my-8 flex flex-row items-center justify-between px-3">
       <div>
         <p className="cursor-pointer text-3xl font-bold text-white hover:underline">
-          MichaelYuhe
+          Derick Xia
         </p>
         <p className="mt-1 text-lg text-gray-300">
           Frontend Developer, Student
