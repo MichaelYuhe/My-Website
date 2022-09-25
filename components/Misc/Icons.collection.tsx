@@ -1,4 +1,4 @@
-import { BsArrowRightShort } from "react-icons/bs";
+import { BsArrowRightShort, BsTelegram } from "react-icons/bs";
 import { MdEmail, MdWebAsset } from "react-icons/md";
 import {
   AiOutlineTwitter,
@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 import { VscGithubAlt } from "react-icons/vsc";
+import {} from "react-icons/bs";
 
 export {
   MdEmail,
@@ -17,4 +18,5 @@ export {
   HiOutlineArrowNarrowRight,
   BsArrowRightShort,
   VscGithubAlt,
+  BsTelegram,
 };
