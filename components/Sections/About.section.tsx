@@ -1,9 +1,5 @@
 import type { NextComponentType } from "next";
-
 import Image from "next/image";
-import Link from "next/link";
-
-import { HiOutlineArrowNarrowRight } from "../Misc/Icons.collection";
 
 const About: NextComponentType = () => {
   return (
@@ -19,7 +15,7 @@ const About: NextComponentType = () => {
         <p className="mt-4 text-gray-400">
           Start my Frontend Develop Jouney from 2021/7.
           <br />
-          Working at Zoom currently. <br />
+          Interning at Zoom currently. <br />
           Graduating in 2023 from Zhejiang University.
         </p>
 

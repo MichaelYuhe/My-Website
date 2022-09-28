@@ -7,7 +7,6 @@ import {
 } from "react-icons/ai";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 import { VscGithubAlt } from "react-icons/vsc";
-import {} from "react-icons/bs";
 
 export {
   MdEmail,
