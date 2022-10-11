@@ -15,18 +15,11 @@ const About: NextComponentType = () => {
         <p className="mt-4 text-gray-400">
           Start my Frontend Develop Jouney from 2021/7.
           <br />
-          Interning at Zoom currently. <br />
           Graduating in 2023 from Zhejiang University.
         </p>
 
         <p className="mt-4 text-gray-400">
           Looking for job opportunities.
-          <br />
-          Prefer a&nbsp;
-          <span className="cursor-pointer hover:underline">
-            work-life-balance
-          </span>{" "}
-          job.
           <br />
         </p>
       </div>
