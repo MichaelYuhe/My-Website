@@ -26,7 +26,7 @@ const Skills = () => {
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Next.js & Three.js </span>
+          <span className="text-white">Next.js & Go </span>
           &nbsp;&nbsp;currently learning
         </p>
       </div>

@@ -53,7 +53,7 @@ const Projects: NextComponentType = () => {
       <Project
         name="Greenet"
         desc="Beautify your own planet with real world environment-friendly actions."
-        // videoId="rgYP63ZHKQ4"
+      // videoId="rgYP63ZHKQ4"
       />
       <Project
         name="Todoist"
@@ -83,6 +83,11 @@ const Projects: NextComponentType = () => {
         name="SoUart"
         desc="The official website of SoUart."
         websiteUrl="https://www.souartverse.com/"
+      />
+      <Project
+        name="Zeabur"
+        desc="Deploy your services with one click"
+        websiteUrl="https://zeabur.com/"
       />
     </div>
   );

@@ -6,10 +6,10 @@ const About: NextComponentType = () => {
     <div className="font-sen my-8 flex flex-row items-center justify-between px-3">
       <div>
         <p className="cursor-pointer text-3xl font-bold text-white hover:underline">
-          Derick Xia
+          Yuhang Xia
         </p>
         <p className="mt-1 text-lg text-gray-300">
-          Frontend Developer, Student
+          Frontend Developer, Student, Freelancer
         </p>
 
         <p className="mt-4 text-gray-400">
@@ -19,7 +19,11 @@ const About: NextComponentType = () => {
         </p>
 
         <p className="mt-4 text-gray-400">
-          Looking for job opportunities.
+          Working on
+          <a
+            className="underline underline-offset-1 ml-2"
+            href="https://zeabur.com">Zeabur
+          </a>
           <br />
         </p>
       </div>

@@ -31,9 +31,9 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Derick's Website"
-        titleTemplate="Derick's Website"
-        defaultTitle="Derick's Website"
+        title="Yuhang's Website"
+        titleTemplate="Yuhang's Website"
+        defaultTitle="Yuhang's Website"
         description="Hey! I'm Yuhang Xia, a Frontend Developer, and a Student."
         twitter={{
           handle: "@coooolxyh",
