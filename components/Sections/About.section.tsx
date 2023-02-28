@@ -19,11 +19,11 @@ const About: NextComponentType = () => {
         </p>
 
         <p className="mt-4 text-gray-400">
-          Working on
           <a
             className="underline underline-offset-1 ml-2"
             href="https://zeabur.com">Zeabur
           </a>
+          Co-Founder
           <br />
         </p>
       </div>

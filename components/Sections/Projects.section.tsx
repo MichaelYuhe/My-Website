@@ -53,7 +53,6 @@ const Projects: NextComponentType = () => {
       <Project
         name="Greenet"
         desc="Beautify your own planet with real world environment-friendly actions."
-      // videoId="rgYP63ZHKQ4"
       />
       <Project
         name="Todoist"
