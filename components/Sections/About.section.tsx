@@ -20,7 +20,7 @@ const About: NextComponentType = () => {
 
         <p className="mt-4 text-gray-400">
           <a
-            className="underline underline-offset-1 ml-2"
+            className="underline underline-offset-1 mr-2"
             href="https://zeabur.com">Zeabur
           </a>
           Co-Founder
