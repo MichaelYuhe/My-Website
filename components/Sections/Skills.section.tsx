@@ -8,26 +8,26 @@ const Skills = () => {
       <div className="text-md custom:text-lg my-8 flex flex-col font-medium md:text-xl">
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">React </span>
-          &nbsp;&nbsp;as my Frontend Framework
+          <span className="text-white mr-2">React </span>
+          as my Frontend Frame work
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">JavaScript & TypeScript </span>
-          &nbsp;&nbsp;as my main language
+          <span className="text-white mr-2">JavaScript & TypeScript </span>
+          as my main language
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Tailwind CSS </span>
-          &nbsp;&nbsp;as my CSS framework
+          <span className="text-white mr-2">Tailwind CSS </span>
+          as my CSS framework
         </p>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 text-slate-300">
           <BsArrowRightShort size="30" />
-          <span className="text-white">Next.js & Go </span>
-          &nbsp;&nbsp;currently learning
+          <span className="text-white mr-2">Next.js & Go </span>
+          currently learning
         </p>
       </div>
 
